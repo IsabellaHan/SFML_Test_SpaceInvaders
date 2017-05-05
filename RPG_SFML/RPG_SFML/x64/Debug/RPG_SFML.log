@@ -1,9 +1,0 @@
-﻿  Source.cpp
-c:\users\isabe\onedrive\documents\visual studio 2017\projects\rpg_sfml\rpg_sfml\player.h(11): warning C4305: 'initializing': truncation from 'double' to 'float'
-c:\users\isabe\onedrive\documents\visual studio 2017\projects\rpg_sfml\rpg_sfml\projectile.h(6): warning C4305: 'initializing': truncation from 'double' to 'float'
-c:\users\isabe\onedrive\documents\visual studio 2017\projects\rpg_sfml\rpg_sfml\source.cpp(28): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
-  Projectile.cpp
-c:\users\isabe\onedrive\documents\visual studio 2017\projects\rpg_sfml\rpg_sfml\projectile.h(6): warning C4305: 'initializing': truncation from 'double' to 'float'
-  Generating Code...
-  RPG_SFML.vcxproj -> C:\Users\isabe\OneDrive\Documents\Visual Studio 2017\Projects\RPG_SFML\x64\Debug\RPG_SFML.exe
-  RPG_SFML.vcxproj -> C:\Users\isabe\OneDrive\Documents\Visual Studio 2017\Projects\RPG_SFML\x64\Debug\RPG_SFML.pdb (Partial PDB)
